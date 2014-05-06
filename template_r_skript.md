@@ -1,5 +1,6 @@
 
 **Name**
+---------------------------------------------------------------------------------------------------
 
 plot cars
 
@@ -20,10 +21,13 @@ cars (dataset yet implemented in R)
 1. plot speed vs distance 
 2. give information of variables (console)
 
-**Author**
+**Author / Date**
 
-M.O.
+M.L. / 25.04.2014
 *****
+
+
+
 
 *plot speed vs distance*
 ```{r}
